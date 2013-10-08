@@ -1,0 +1,4 @@
+{"ts":1381258619542,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1381258757971,"patch":[[{"diffs":[[1,"var myButton = document.getElementById(\"clickButton\");\nvar myText = document.getElementById(\"helloText\");\n\nmyButton.addEventListener('click', doSomething, false)\n\nfunction doSomething() {\n\tmyText.textContent = \"hello, world!\";\n}"]],"start1":0,"start2":0,"length1":0,"length2":228}]],"length":228,"saved":false}
+{"ts":1381258905677,"patch":[[{"diffs":[[0,", false)"],[1,";"],[0,"\n\nfuncti"]],"start1":153,"start2":153,"length1":16,"length2":17}]],"length":229,"saved":false}
+{"ts":1381259027341,"patch":[[{"diffs":[[0," = \""],[-1,"h"],[1,"H"],[0,"ello, "],[-1,"w"],[1,"W"],[0,"orld!"],[1," From Cloud9"],[0,"\";\n}"]],"start1":208,"start2":208,"length1":21,"length2":33}]],"length":241,"saved":false}
