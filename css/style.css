@@ -1,8 +1,16 @@
+#wrapper {
+    background-color:yellow;
+    height: 100%;
+    width: 100%;
+    color:red;
+    }
+
 #mainContent {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: xx-large;
 	font-weight: bold;
-	background-color:#0fcbd1;
+	font-color: white;
+	background:#0fcbd1;
 	border-radius: 4px;
 	padding: 10px;
 	text-align: center;

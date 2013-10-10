@@ -6,7 +6,7 @@ var fizzResult = 0;
 var buzzResult = 0;
 
 // For loop for Fizz Buzz
-for(i=1; i<=100; i++) 
+for(i=1; i<=200; i++) 
 {
     fizzResult = (i % 3); 
     buzzResult = (i % 5);
